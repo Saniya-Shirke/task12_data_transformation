@@ -1,0 +1,9 @@
+Task 12: Power BI Data Transformation
+
+- Imported HR Analytics dataset into Power BI
+- Opened Power Query Editor for data transformation
+- Performed column profiling and confirmed no missing values
+- Removed unnecessary columns and renamed headers
+- Verified and corrected data types
+- Created Age Group and Salary Band using conditional columns
+- Applied transformations and built visuals
